@@ -9,10 +9,6 @@ Xin Chào tôi là Nguyễn Ngọc Huỳnh Trâm
 </p>
 
 <p align="left">
-  💼 Công Nghệ Phần Mềm: Lớp Thực Hành Thứ 6 Ca 2 Công Nghệ Phần Mềm
-</p>
-
-<p align="left">
   💌 Contact Me ⤵️
 </p>
 
